@@ -27,4 +27,4 @@ if (number > 0)
     int result = SumOfDigits(number);
     Console.WriteLine($"Сумма всех цифр в числе {number} = {result}");
 }
-else Console.WriteLine("Введите положительное числа, например (82)");
+else Console.WriteLine("Введите положительное число, например (82)");
